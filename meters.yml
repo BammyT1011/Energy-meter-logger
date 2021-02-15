@@ -8,7 +8,7 @@ meters:
       stopbits : 1
       timeout  : 0.5   # seconds
     - name : Meter Group 2
-      type : SDM530.yml
+      type : SDM530C.yml
       id : 13     # this is the slave address number
       baudrate : 9600   # Baud
       bytesize : 8
